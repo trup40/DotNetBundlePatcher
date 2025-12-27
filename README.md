@@ -21,7 +21,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/DotNetBundlePatcher.git](https://github.com/yourusername/DotNetBundlePatcher.git)
+    git clone [https://github.com/trup40/DotNetBundlePatcher.git](https://github.com/trup40/DotNetBundlePatcher.git)
     cd DotNetBundlePatcher
     ```
 
