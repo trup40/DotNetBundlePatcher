@@ -1,5 +1,4 @@
-﻿```markdown
-# Contributing to .NET Bundle Patcher
+﻿# Contributing to .NET Bundle Patcher
 
 First off, thank you for considering contributing! 🎉
 
@@ -159,4 +158,3 @@ Feel free to:
 ## License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
-```

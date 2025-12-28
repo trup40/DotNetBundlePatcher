@@ -1,4 +1,3 @@
-```markdown
 # 📦 .NET Bundle Patcher v2.0
 
 [![.NET](https://img.shields.io/badge/.NET-6.0+-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
