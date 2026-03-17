@@ -319,7 +319,7 @@ AI was used for console visualization and README.md preparation.
 
 ## ☕ Donate
 
-This project is free and open-source. If you find them useful and would like to support the development process, you can buy me a coffee using the crypto addresses below! 🚀
+This project is free and open-source. If you find this useful and would like to support the development process, you can buy me a coffee using the crypto addresses below! 🚀
 
 ### 🪙 Crypto Donations
 
